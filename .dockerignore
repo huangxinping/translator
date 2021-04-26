@@ -1,3 +1,6 @@
 .git/
 __pycache__
 .python-version
+.gitignore
+LICENSE
+README.md
